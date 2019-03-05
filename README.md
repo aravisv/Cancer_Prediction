@@ -1,2 +1,2 @@
 # Cancer_Prediction
-Neural network model to predict breast cancer
+Classify people diagnosed by breast cancer or not based on medical conditions with the use of neural network model.
